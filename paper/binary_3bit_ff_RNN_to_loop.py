@@ -19,8 +19,8 @@ from keras.models import Sequential, Model
 from keras.constraints import Constraint 
 from keras.layers.core import Dense
 from keras.callbacks import ModelCheckpoint, Callback
-from keras.layers.recurrent import SimpleRNN
-from keras.layers import TimeDistributed, Dense, Activation, Dropout
+#from keras.layers.recurrent import SimpleRNN
+from keras.layers import TimeDistributed, Dense, Activation, Dropout, SimpleRNN
 from keras.utils import plot_model
 from keras import metrics, optimizers, regularizers
 from keras.layers import Input
