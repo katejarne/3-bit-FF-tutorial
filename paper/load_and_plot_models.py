@@ -35,8 +35,8 @@ from keras.utils import CustomObjectScope
 from keras.models import Sequential, load_model
 from keras.layers.core import Dense
 from keras.callbacks import ModelCheckpoint
-from keras.layers.recurrent import SimpleRNN
-from keras.layers import TimeDistributed, Dense, Activation, Dropout
+#from keras.layers.recurrent import SimpleRNN
+from keras.layers import TimeDistributed, Dense, Activation, Dropout, SimpleRNN
 from keras import metrics, optimizers, regularizers, initializers
 from keras import backend as K
 from keras.utils.generic_utils import get_custom_objects
