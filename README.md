@@ -2,6 +2,8 @@
 
 # TUTORIAL for the premiere
 
+https://arxiv.org/abs/2010.07858
+
 Soft ver: Python 3.6.9
 TF:2.0.0
 Keras: 2.3.1
@@ -37,4 +39,6 @@ main calls:
 2) generate_data_set_cube.py to plot the 8-memory states (or generate_data_set.py for single transitions)
 
 The matrix to analyze must be at "matrix_weight_example" folder and plots at "plots_ff"
+
+
 
