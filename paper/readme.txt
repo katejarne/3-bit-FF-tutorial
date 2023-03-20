@@ -25,7 +25,7 @@ and save the trained networks at the folder:
 
 ######################################
 
-#For Plot RRN use:
+#For Plot RRNs use:
 
 load_and_plot_models.py (main)
 
