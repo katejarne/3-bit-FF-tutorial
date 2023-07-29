@@ -1,6 +1,6 @@
 # 3-bit-FF-tutorial
 
-# TUTORIAL for the premiere
+# Exploring Flip Flop memories and beyond: training recurrent neural networks with key insights
 
 https://arxiv.org/abs/2010.07858
 
